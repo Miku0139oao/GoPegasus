@@ -7,7 +7,7 @@ package main
 
 import (
 	"fmt"
-	GoPegasus "pegasusClient/Pegasus"
+	GoPegasus "github.com/Miku0139oao/GoPegasus/Pegasus"
 )
 
 func main() {
